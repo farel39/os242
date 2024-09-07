@@ -1,11 +1,1 @@
----
-permalink: LINKS/
----
-## [HOME](../)
-
-# LINKS
-
-<br>
-<br>
-#### REV: Sat 07 Sep 2024 18:00
-<hr>
+LOG [TXT/mylog.txt] - GitHub [https://github.com/farel39/os242] - Links[LINKS/]

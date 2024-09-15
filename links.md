@@ -13,6 +13,7 @@ permalink: LINKS/
 * [Bash Video 1](https://youtu.be/F-gskSl4pwQ) --- Video for learning bash, quick and fast
 * [Bash Video 2](https://youtu.be/_n5ZegzieSQ) --- Video for learning bash, long duration and informative
 * [Gawk PDF](https://www.gnu.org/software/gawk/manual/gawk.pdf) --- PDF for learning gawk, very comprehensive
+* [CyberSecurity Video](https://youtu.be/U_P23SqJaDc?si=S1qs5ghj9-7kp2UG) --- Such a good video for learning the basics of cybersecurity in a simple and very understandable manner
 <br>
 <br>
 #### REV: Sun 08 Sep 2024 22:00
